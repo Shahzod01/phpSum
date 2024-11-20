@@ -1,0 +1,19 @@
+{
+    "name": "shahzod/php-sum",
+    "description": "Sum Of Numbers (testing)",
+    "autoload": {
+        "psr-4": {
+            "Shahzod\\PhpSum\\": "src/"
+        },
+      "files": [
+        "src/helpers.php"
+      ]
+    },
+    "authors": [
+        {
+            "name": "Shahzod01",
+            "email": "shahzodtoatov@gmail.com"
+        }
+    ],
+    "require": {}
+}
